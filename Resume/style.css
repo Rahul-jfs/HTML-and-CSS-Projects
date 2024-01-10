@@ -1,0 +1,23 @@
+body{
+    background-color:#ccc;
+}
+img{
+    width: 130px;
+    height: 130px;
+}
+div{
+    width: 800px;
+    margin: auto;
+    background-color:#ccc;
+    border-radius:10px ;
+    padding: 20px;
+}
+h3{
+    background-color: #888;
+}
+table{
+    border-bottom: 2px solid;
+}
+tr,td{
+    width: 100%;
+}
